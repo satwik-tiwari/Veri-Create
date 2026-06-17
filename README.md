@@ -1,6 +1,5 @@
 #  VeriCreate — AI Content Generation & Verification Platform
 
-![VeriCreate Header](https://via.placeholder.com/1200x400?text=VeriCreate+AI+Platform)
 
 **VeriCreate** is a cutting-edge, full-stack AI-enabled platform designed to empower creators, developers, and organizations to **generate, verify, and manage digital content** with unprecedented authenticity and trust.
 
