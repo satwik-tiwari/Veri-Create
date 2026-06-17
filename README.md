@@ -1,4 +1,4 @@
-# 🛡️ VeriCreate — AI Content Generation & Verification Platform
+#  VeriCreate — AI Content Generation & Verification Platform
 
 ![VeriCreate Header](https://via.placeholder.com/1200x400?text=VeriCreate+AI+Platform)
 
@@ -8,26 +8,26 @@ By combining advanced **Generative AI**, **Cryptographic Hashing**, and a **Mode
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🎨 AI Content Generation
+### AI Content Generation
 - **Intelligent Text Production:** Powered by **Google Gemini AI** for high-quality, creative, and contextual text content.
 - **Dynamic Prompting:** Custom prompt-based generation tailored to your needs.
 - **Multi-Module Layout:** Seamlessly switch between generation, verification, and history.
 
-### 🔍 Content Verification Engine
+###  Content Verification Engine
 - **SHA-256 Hashing:** Every generated piece of content is signed with a unique cryptographic hash.
 - **Integrity Checks:** Detect even minor edits or manipulations in seconds.
 - **Authenticity Scoring:** Get a real-time trust score for your digital assets.
 
-### 📊 Modern User Experience
+###  Modern User Experience
 - **Interactive Dashboard:** Track your content history, activity, and analytics in real-time.
 - **Glassmorphism UI:** A sleek, premium design built with **Tailwind CSS** and **Framer Motion**.
 - **Responsive & Fluid:** Optimized for all devices with smooth micro-animations.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Framer Motion
 - **Icons:** Lucide React, React Icons
@@ -37,7 +37,7 @@ By combining advanced **Generative AI**, **Cryptographic Hashing**, and a **Mode
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -64,7 +64,7 @@ The app will be available at `http://localhost:3000`.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 VeriCreate/
@@ -82,7 +82,7 @@ VeriCreate/
 
 ---
 
-## 📝 Roadmap
+##  Roadmap
 
 - [ ] **Blockchain Integration:** Store verification hashes on-chain for immutable proof of origin.
 - [ ] **Multi-Model Support:** Integration with OpenAI GPT-4 and Stable Diffusion for image generation.
@@ -91,7 +91,7 @@ VeriCreate/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -103,7 +103,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
